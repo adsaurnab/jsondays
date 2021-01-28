@@ -1,4 +1,5 @@
-[
+{
+days: [
   {
     "day": "Sunday",
     "class": "Six",
@@ -115,4 +116,10 @@
   }
   
   
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+
+
+}
